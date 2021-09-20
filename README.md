@@ -1,2 +1,3 @@
-# projetEncadreL2-S4
-make a website using HTML , SASS and JS
+# Leon Agency Template
+clone the leon template using HTML & CSS
+##ELZERO WEB SCHOOL.
